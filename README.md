@@ -1,4 +1,6 @@
-Realidad-Aumenteda
+Realidad Aumenteda
 ==================
 
-RA.js
+###JSARToolKit.js
+###magi.js
+###Three.js
